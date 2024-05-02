@@ -1,0 +1,65 @@
+Name: Pāvels Hohlovs 
+Telefona numurs: 28266718
+Automašīnas modelis: Volvo XC40
+Cena par stundu: 2.41 EUR
+Pārnešana veids: automāts
+Degvielas veids: Petrol
+Uz 5 stundiem?
+
+Apdrošināšanas veids: Puss apdrošināšana 200EUR
+
+Summa: 262,05 EUR
+
+----------------
+Name: pasha 
+Telefona numurs: 272727277
+Automašīnas modelis: MERCEDES-BENZ CLS 350
+Cena par stundu: 3.75 EUR
+Pārnešana veids: automāts
+Degvielas veids: Petrol
+Uz 24 stundiem?
+
+Apdrošināšanas veids: Pilna apdrošināšana 500EUR
+
+Summa: 590,00 EUR
+
+----------------
+Name: cfdfcsd 
+Telefona numurs: dfsxdfgxd
+Automašīnas modelis: Bugatti Chiron
+Cena par stundu: 833.29 EUR
+Pārnešana veids: automāts
+Degvielas veids: Petrol
+Uz 3 stundiem?
+
+Apdrošināšanas veids: Nekāds 0EUR
+
+Summa: 2499,87 EUR
+
+----------------
+Name: xcxcxc 
+Telefona numurs: 34534535
+Automašīnas modelis: MERCEDES-BENZ CLS 350
+Cena par stundu: 3.75 EUR
+Pārnešana veids: automāts
+Degvielas veids: Petrol
+Uz 6 stundiem?
+
+Apdrošināšanas veids: Pilna apdrošināšana 500EUR
+
+Summa: 522,50 EUR
+
+----------------
+Name: sfd 
+Telefona numurs: 234234
+Automašīnas modelis: BMW 2 Series 2016
+Cena par stundu: 3.29 EUR
+Pārnešana veids: automāts
+Degvielas veids: Gas
+Uz 8 stundiem?
+
+Apdrošināšanas veids: Puss apdrošināšana 200EUR
+
+Summa: 276,32 EUR
+
+----------------
